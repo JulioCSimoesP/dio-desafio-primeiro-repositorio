@@ -18,5 +18,8 @@ Neste repositório haverá diretórios e arquivos relacionados com os estudos de
         - Exercícios resolvidos
 
     3. Introdução ao Portugol
-
+        - Links da Aula
+        - Anotações
+        - Execícios resolvidos
+        
 2. 
