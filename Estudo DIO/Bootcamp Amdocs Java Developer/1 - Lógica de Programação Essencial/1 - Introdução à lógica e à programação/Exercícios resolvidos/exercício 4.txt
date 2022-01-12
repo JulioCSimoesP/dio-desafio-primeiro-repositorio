@@ -1,0 +1,25 @@
+rachacuca.com.br/jogos/pinguins-numa-fria/
+
+INICIO JOGO
+	entra filho vermelho
+	entra pai vermelho
+	atravessa
+	sai pai vermelho
+	atravessa
+	entra filho verde
+	atravessa
+	sai filho vermelho
+	atravessa
+	entra pai verde
+	atravessa
+	sai pai verde
+	atravessa
+	entra filho azul
+	atravessa
+	sai filho verde
+	atravessa
+	entra pai azul
+	atravessa
+	sai pai azul
+	sai filho azul
+FIM JOGO

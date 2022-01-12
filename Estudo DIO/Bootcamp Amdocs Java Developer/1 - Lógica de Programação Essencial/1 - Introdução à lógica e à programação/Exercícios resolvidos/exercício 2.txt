@@ -1,0 +1,51 @@
+INICIO DIA	
+	acordar
+	levantar da cama
+	ir ao banheiro
+	fazer necessidades
+	lavar o rosto
+	escovar os dentes
+	ir a cozinha
+	lavar a louça
+	fazer o café da manhã
+	chamar os outros para comer o café da manhã
+	tomar café da manhã
+	recolher louça do café do manhã
+	lavar louça do café da manhã
+	ir ao quarto
+	arrumar cama
+	abrir janela
+	ir ao quintal
+	tirar roupa do varal
+	pegar água
+	regar plantas da frente
+	ir ao quarto
+	ligar computador
+	analisar cronograma semanal
+	verificar e-mail
+	verificar discord
+	verificar whatsapp
+	estudar
+	ir a cozinha
+	almoçar
+	lavar louça do almoço
+	ir ao banheiro
+	escovar os dentes
+	fazer necessidades
+	tomar banho
+	ir ao quarto
+	colocar roupas limpas
+	estudar
+	buscar freelas
+	preparar para live
+	fazer live
+	ir a cozinha
+	jantar
+	ir ao quarto
+	desligar computador
+	verificar portas
+	trancar portas
+	preparar camar para dormir
+	deitar
+	dormir
+FIM DIA

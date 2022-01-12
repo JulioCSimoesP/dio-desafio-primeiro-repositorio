@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="julio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-23 05:32:23 "/>
+        <attribute name="created" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwNToyODozMyAiOzIwMDE="/>
+        <attribute name="edited" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwNTozMjoyMyAiOzE7MjEwMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, fator" type="Integer" array="False" size=""/>
+            <assign variable="fator" expression="0"/>
+            <output expression="&quot;Por favor, digite um n&#250;mero b&#225;sico para verificar sua tabuada.&quot;" newline="True"/>
+            <input variable="numero"/>
+            <while expression="fator&lt;11">
+                <output expression="numero &amp; &quot; x &quot; &amp; fator &amp; &quot; &#233; igual a &quot; &amp; numero*fator &amp; &quot;.&quot;" newline="True"/>
+                <assign variable="fator" expression="fator+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

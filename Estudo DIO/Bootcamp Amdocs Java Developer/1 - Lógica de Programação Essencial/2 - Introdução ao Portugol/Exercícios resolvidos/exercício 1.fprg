@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="julio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-23 05:28:28 "/>
+        <attribute name="created" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwMzo1NDoxNiAiOzE5OTk="/>
+        <attribute name="edited" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwNToyODoyOCAiOzE7MjExMw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, i, counter" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o n&#250;mero que iniciar&#225; a sequ&#234;ncia:&quot;" newline="True"/>
+            <input variable="a"/>
+            <assign variable="b" expression="a+1"/>
+            <assign variable="counter" expression="2"/>
+            <assign variable="i" expression="0"/>
+            <output expression="a" newline="True"/>
+            <output expression="b" newline="True"/>
+            <while expression="i&lt;8">
+                <assign variable="c" expression="a+b"/>
+                <assign variable="a" expression="b"/>
+                <assign variable="b" expression="c"/>
+                <output expression="b" newline="True"/>
+                <assign variable="counter" expression="counter+1"/>
+                <assign variable="i" expression="i+1"/>
+            </while>
+            <output expression="&quot;O total de n&#250;meros gerados foi &quot; &amp; counter &amp; &quot;.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

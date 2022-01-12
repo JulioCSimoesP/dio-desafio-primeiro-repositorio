@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="julio"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-11-23 03:45:37 "/>
+        <attribute name="created" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwMjo1OToxMiAiOzE5OTk="/>
+        <attribute name="edited" value="anVsaW87UEMtSjsyMDIxLTExLTIzOyIwMzo0NTozNyAiOzI7MjExMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="vendasjaneiro, vendasfevereiro, vendasmar&#231;o, vendasabril" type="Integer" array="False" size=""/>
+            <declare name="media" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual o seu nome?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Ol&#225; &quot; &amp; nome &amp; &quot;, tudo bem?&quot;" newline="True"/>
+            <output expression="&quot;Por favor digite o seu n&#250;mero de vendas do m&#234;s de Janeiro:&quot;" newline="True"/>
+            <input variable="vendasjaneiro"/>
+            <output expression="&quot;Por favor digite o seu n&#250;mero de vendas do m&#234;s de Fevereiro:&quot;" newline="True"/>
+            <input variable="vendasfevereiro"/>
+            <output expression="&quot;Por favor digite o seu n&#250;mero de vendas do m&#234;s de Mar&#231;o:&quot;" newline="True"/>
+            <input variable="vendasmar&#231;o"/>
+            <output expression="&quot;Por favor digite o seu n&#250;mero de vendas do m&#234;s de Abril:&quot;" newline="True"/>
+            <input variable="vendasabril"/>
+            <assign variable="media" expression="(vendasjaneiro+vendasfevereiro+vendasmar&#231;o+vendasabril)/4"/>
+            <output expression="nome &amp; &quot;, a sua m&#233;dia de vendas foi de &quot; &amp; media &amp; &quot;.&quot;" newline="True"/>
+            <if expression="media&gt;=5000">
+                <then>
+                    <output expression="&quot;Parab&#233;ns! Voc&#234; receber&#225; um abono de 10%!&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; receber&#225; um abono de 3%.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

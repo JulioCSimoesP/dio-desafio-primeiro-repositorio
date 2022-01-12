@@ -1,0 +1,5 @@
+1 - Aprenda como utilizar uma estrutura de repetição - https://www.youtube.com/watch?v=McsPE3083xQ
+2 - O que são linguagens de programação? - https://www.youtube.com/watch?v=SjKULXp_Nkg
+3 - Aprenda a utilizar desvios condicionais e boas práticas em programação - https://www.youtube.com/watch?v=hMooSEODWfM
+4 - Trabalhando com laços de repetição em Portugol - https://www.youtube.com/watch?v=Ye9TEY67ico
+5 - Aplicação prática com matrizes e vetores - https://www.youtube.com/watch?v=hEM2jKCPQTg

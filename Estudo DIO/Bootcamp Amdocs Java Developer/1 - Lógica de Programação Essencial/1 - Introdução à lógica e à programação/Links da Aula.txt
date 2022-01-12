@@ -1,0 +1,9 @@
+1 - Entendendo o que é lógica - https://www.youtube.com/watch?v=6JqZOON_kDY
+
+2 - O que são algoritmos e pseudocódigos - https://www.youtube.com/watch?v=VtcWhkygFF0
+
+3 - Aprendendo fluxograma, variáveis e constantes - https://www.youtube.com/watch?v=GZMxPsB2P6w
+
+4 - Tomadas de decisão e expressões - https://www.youtube.com/watch?v=-c_6EkfsODE
+
+5 - Como utilizar a concatenação - https://www.youtube.com/watch?v=lxJ9wyNH_FQ
