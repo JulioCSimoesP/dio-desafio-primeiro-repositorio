@@ -1,0 +1,4 @@
+1 - Introdução e objetivos - https://www.youtube.com/watch?v=_33BY2YJD28
+2 - O que são listas - https://www.youtube.com/watch?v=vCX_hpFRhko
+3 - O que são pilhas - https://www.youtube.com/watch?v=ew97q9GMtck
+4 - O que são filas - https://www.youtube.com/watch?v=enjZK8rMsyk

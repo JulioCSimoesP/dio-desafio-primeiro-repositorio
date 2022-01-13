@@ -1,0 +1,40 @@
+Após realizar o primeiro commit de um repositório local é recomendado executar o seguinte
+comando para renomear a branch:
+
+git branch -M main
+
+A flag -M serve para mover(-m) e forçadamente(-f) renomear a branch.
+A linha de comando normalmente é escrita da seguinte forma:
+
+git branch -M <nomedabranchantigo> <nomedabranchnovo>
+
+Contudo quando se executa o GitBash em uma pasta vigiada pelo Git, o Git assume o
+<nomedabranchantigo> como o nome da branch onde ele está sendo executado.
+
+Quando for empurrar um commit pela primeira vez para o repositório remoto é recomendado
+utilizar o comando:
+
+git push -u origin master/main
+
+In more simple terms:
+
+Technically, the -u flag adds a tracking reference to the upstream server you are pushing
+to.
+
+What is important here is that this lets you do a git pull without supplying any more
+arguments. For example, once you do a git push -u origin master, you can later call git
+pull and git will know that you actually meant git pull origin master.
+
+Otherwise, you'd have to type in the whole command.
+
+git push -u origin master
+… is the same as:
+
+git push origin master ; git branch --set-upstream master origin/master
+Do the last statement, if you forget the -u!
+
+Or you could force it:
+
+git config branch.master.remote origin
+git config branch.master.merge refs/heads/master
+

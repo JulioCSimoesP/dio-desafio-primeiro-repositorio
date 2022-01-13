@@ -1,0 +1,4 @@
+1 - Introdução e objetivos - https://www.youtube.com/watch?v=CzBlXTwLqDY
+2 - O que são árvores - https://www.youtube.com/watch?v=IdU1ezDIFCQ
+3 - O que são tabelas hash - https://www.youtube.com/watch?v=kAzMXUNUwzI
+4 - O que são grafos - https://www.youtube.com/watch?v=FKTno8uSAwk

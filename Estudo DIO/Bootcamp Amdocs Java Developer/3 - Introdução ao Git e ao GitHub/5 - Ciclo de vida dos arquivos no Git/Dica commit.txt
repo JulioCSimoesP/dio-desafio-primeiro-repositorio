@@ -1,0 +1,4 @@
+Quando for realizar um commit e não for declarado a mensagem do commit, depois de que o
+git bash abrir uma janela pedindo uma mensagem para o commit e você digitar a mensagem, o
+que se deve fazer é apertar "Esc" e digitar :wq para poder submeter a mensagem do commit
+e sair da nova janela.

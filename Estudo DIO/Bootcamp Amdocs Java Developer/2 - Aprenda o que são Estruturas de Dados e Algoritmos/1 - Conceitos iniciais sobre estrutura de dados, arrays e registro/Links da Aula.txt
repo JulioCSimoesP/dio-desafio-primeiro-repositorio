@@ -1,0 +1,4 @@
+1 - Introdução e objetivos - https://www.youtube.com/watch?v=tmytunOnaG4
+2 - O que é estrutura de dados - https://www.youtube.com/watch?v=ORI8tKogtL8
+3 - Vetores e matrizes - https://www.youtube.com/watch?v=3swz5_l3k6o
+4 - O que são registros - https://www.youtube.com/watch?v=2IMsbEz4g74
