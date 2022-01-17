@@ -1,16 +1,3 @@
-Após realizar o primeiro commit de um repositório local é recomendado executar o seguinte
-comando para renomear a branch:
-
-git branch -M main
-
-A flag -M serve para mover(-m) e forçadamente(-f) renomear a branch.
-A linha de comando normalmente é escrita da seguinte forma:
-
-git branch -M <nomedabranchantigo> <nomedabranchnovo>
-
-Contudo quando se executa o GitBash em uma pasta vigiada pelo Git, o Git assume o
-<nomedabranchantigo> como o nome da branch onde ele está sendo executado.
-
 Quando for empurrar um commit pela primeira vez para o repositório remoto é recomendado
 utilizar o comando:
 

@@ -1,0 +1,2 @@
+Guia de sintaxe de Markdown - https://www.markdownguide.org/basic-syntax/
+Lista de emojis para utilizar em Markdown - https://emojipedia.org/

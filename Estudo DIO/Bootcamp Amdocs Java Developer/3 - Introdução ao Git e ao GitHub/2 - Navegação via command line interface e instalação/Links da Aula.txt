@@ -1,0 +1,2 @@
+1 - Comandos básicos para um bom desempenho no terminal - https://www.youtube.com/watch?v=6uJWNxt6ZhU
+2 - Realizando a instalação do GIT - https://www.youtube.com/watch?v=leEHrYXzzng
