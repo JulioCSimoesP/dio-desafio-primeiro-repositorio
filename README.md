@@ -94,4 +94,22 @@ Neste repositório haverá diretórios e arquivos relacionados com os estudos de
       
       - Anotações
 
-4. 
+4. Projetos Ágeis com SCRUM
+   
+   1. Introdução ao SCRUM
+      
+      - Links da Aula
+      
+      - Anotações
+   
+   2. Fundamentos de um projeto ágil
+      
+      - Links da Aula
+      
+      - Anotações
+   
+   3. Conceitos e atividades essenciais para o sucesso de um projeto ágil
+      
+      - Links da Aula
+      
+      - Anotações
